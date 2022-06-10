@@ -2,4 +2,3 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 ## I have a blog!
 
-And you can include links, like this [link to xxx](https://www.xxx). Posts will appear after this file. 
