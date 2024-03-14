@@ -2,3 +2,4 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 ## I have a blog!
 
+hello! Welcome to holi's github blog
